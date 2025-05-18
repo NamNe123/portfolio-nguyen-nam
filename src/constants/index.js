@@ -122,9 +122,9 @@ const experiences = [
     company_name: "Công ty cổ phần ASOFT",
     icon: asoft,
     iconBg: "#E6DEDD",
-    date: "02/2025 - nay",
+    date: "01/2025 - 05/2025",
     points: [
-      "Phát triển và duy trì các website và phần mềm máy tính bằng .NET Core, đảm bảo hiệu suất cao và trải nghiệm người dùng mượt mà.",
+      "Phát triển và duy trì hệ thống ERP bằng .NET Core, đảm bảo hiệu suất cao và trải nghiệm người dùng mượt mà.",
       "Hợp tác chặt chẽ với các nhóm chức năng chéo, bao gồm nhà thiết kế, quản lý sản phẩm và các nhà phát triển khác, để xây dựng và tối ưu hóa sản phẩm theo yêu cầu khách hàng.",
       "Triển khai các thiết kế giao diện hiện đại, đảm bảo khả năng phản hồi (responsive) và tương thích đa trình duyệt cho các ứng dụng web.",
       "Bảo trì và tối ưu hóa hệ thống phần mềm nội bộ, hỗ trợ doanh nghiệp trong quản lý và vận hành hiệu quả.",
@@ -135,7 +135,7 @@ const experiences = [
     company_name: "",
     icon: freelancer,
     iconBg: "#E6DEDD",
-    date: "05/2024 - 02/2025",
+    date: "05/2024 - 01/2025",
     points: [
       "Xác định yêu cầu & lên kế hoạch.",
       "Thiết kế giao diện người dùng (UI/UX).",
